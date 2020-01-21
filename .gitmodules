@@ -2,6 +2,3 @@
 	path = droid-hal-version
 	url = https://github.com/mer-hybris/droid-hal-version.git
 	branch = master
-[submodule "droid-configs-device"]
-	url = https://github.com/mer-hybris/droid-hal-configs.git
-	branch = master
